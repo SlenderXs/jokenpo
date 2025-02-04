@@ -1,6 +1,6 @@
 # jokenpo
 
-A new Flutter project.
+Projeto de um jogo de jokenpo em Dart testado em aplicações mobile e IOS com interações automaticas e seleções aleatorias do robo 
 
 ## Getting Started
 
